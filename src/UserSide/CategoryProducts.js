@@ -103,7 +103,7 @@ const decreaseQuantity = () => {
 
 const handleAddToBasket = async () => {
   if (!addToCart?._id) {
-    console.log("what you mean bro?😐 addToCart missing _id");
+    console.log("An error occured with the product id");
     return;
   }
 
@@ -114,7 +114,7 @@ const handleAddToBasket = async () => {
     showToast("Success", `${addToCart.name} added to basket.`, "success");
     setShowModal(false);
   } catch (err) {
-    console.error("gah dayum🥀🙏 error smoked you bro:", err);
+    console.error("An error occured:", err);
     showToast("Error", "Something went wrong!", "danger");
   }
 };
