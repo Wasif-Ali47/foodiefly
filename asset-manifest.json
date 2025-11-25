@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/foodiefly/static/css/main.ae766a4b.css",
-    "main.js": "/foodiefly/static/js/main.1a20078f.js",
+    "main.js": "/foodiefly/static/js/main.46e04b2b.js",
     "static/js/239.840d6874.chunk.js": "/foodiefly/static/js/239.840d6874.chunk.js",
     "static/js/213.faf652db.chunk.js": "/foodiefly/static/js/213.faf652db.chunk.js",
     "static/js/455.8eb7222c.chunk.js": "/foodiefly/static/js/455.8eb7222c.chunk.js",
@@ -19,13 +19,13 @@
     "static/media/cart-1 (2).jpg": "/foodiefly/static/media/cart-1 (2).f29f6d4cbf42cc51eb4d.jpg",
     "index.html": "/foodiefly/index.html",
     "main.ae766a4b.css.map": "/foodiefly/static/css/main.ae766a4b.css.map",
-    "main.1a20078f.js.map": "/foodiefly/static/js/main.1a20078f.js.map",
+    "main.46e04b2b.js.map": "/foodiefly/static/js/main.46e04b2b.js.map",
     "239.840d6874.chunk.js.map": "/foodiefly/static/js/239.840d6874.chunk.js.map",
     "213.faf652db.chunk.js.map": "/foodiefly/static/js/213.faf652db.chunk.js.map",
     "455.8eb7222c.chunk.js.map": "/foodiefly/static/js/455.8eb7222c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae766a4b.css",
-    "static/js/main.1a20078f.js"
+    "static/js/main.46e04b2b.js"
   ]
 }
